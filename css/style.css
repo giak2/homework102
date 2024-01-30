@@ -1,0 +1,65 @@
+h1{
+    color: gold;
+    padding: 20px;
+    font-family: "Audiowide";
+    background-color: darkolivegreen;
+}
+
+h2{
+    font-family: "Audiowide";
+    background-color: darkgoldenrod;
+    padding: 10px;
+}
+
+h3{
+    font-family: "Audiowide";
+    background-color: peru;
+    padding: 10px;
+}
+
+body {
+    font-family: "Trirong";
+    background-color: darkslategray;
+    color: aliceblue;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border: 3px;
+    border: double;
+    margin: 0 auto;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    font-family: "Trirong";
+    background-color: grey;
+    border: 1px solid black;
+    padding: 4px;
+    text-align: left;
+}
+
+th {
+    background-color: salmon;
+}
+
+iframe{
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+    display: block;
+}
